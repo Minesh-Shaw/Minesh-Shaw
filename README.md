@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Minesh-Shaw 👋
+# Hi, I'm Minesh Shaw 👋
 
 [![GitHub](https://www.shieldcn.dev/badge/GitHub-%40Minesh--Shaw-181717.svg?logo=github&variant=branded&size=sm)](https://github.com/Minesh-Shaw)
 
@@ -13,5 +13,3 @@
 ![Python](https://www.shieldcn.dev/badge/-Python-3776AB.svg?logo=python&variant=branded&size=sm) ![Java](https://www.shieldcn.dev/badge/-Java-ED8B00.svg?logo=openjdk&variant=branded&size=sm)
 
 ---
-
-<sub>Badges generated with [shieldcn](https://shieldcn.dev/gen/profile)</sub>
